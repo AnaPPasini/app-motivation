@@ -5,8 +5,9 @@ Esse é a minha primeira aplicação. Um app gerador de frases motivacionais.
 ## 😊 Layout e Interface Gráfica:
 - Foi utlizado o RelativeLayout como um dos elementos do layout, indicando a posição dos componentes relativos uns aos outros. Isso proporciona uma flexibilidade na organização da interface do aplicativo.
 
-## 📚 Ciclos de Vida das Activities:
-- Durante o desenvolvimento, foi considerado os ciclos de vida das activities do Android. onCreate, onStart, onResume, onPause, onStop e onDestroy. 
+## 📚 Ciclo de Vida das Activities:
+- Durante o desenvolvimento, foi considerado os ciclos de vida das activities do Android.
+- OnCreate
 
 ## 🤓 Pacotes
 - O projeto é dividido em diferentes pacotes para manter uma estrutura organizada e modular. 
@@ -18,4 +19,4 @@ Esse é a minha primeira aplicação. Um app gerador de frases motivacionais.
 
 ## 💭 Internacionalização
 - Adotou-seu a internacionalização para oferecer suporte a diferentes idiomas.
--  Isso possibilita que usuários de diferentes regiões possam usar o aplicativo em seu idioma preferido.
+- Isso possibilita que usuários de diferentes regiões possam usar o aplicativo em seu idioma preferido.
